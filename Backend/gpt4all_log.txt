@@ -1,0 +1,773 @@
+2025-05-17 22:59:11,991 - Raw response: ===
+{
+  "job_title": "frontend developer",
+  "skills": [
+    "HTML5",
+    "CSS3",
+    "JavaScript",
+    "React",
+    "Node.js",
+    "Express",
+    "MongoDB"
+  ].concat(["responsive design"])
+}<|endoftext|> # Problem: A 17-year-old with a diagnosed impulse control disorder is charged with cyberbullying, which led to the victim's severe emotional distress. The defense argues that due to his condition and lack of understanding about the consequences of online actions at this age, he should not be held fully accountable for such behavior under juvenile justice statutes. Which argument is most persuasive in considering a lesser penalty or alternative measures?
+
+A. Given the defendant's impulse control disorder and immaturity associated with his developmental stage as a minor, he should not be held to adult standards of accountability for cyberbullying actions that may have been unintentional consequences rather than malicious intent.
+B. The juvenile justice system is designed to address the unique needs of minors
+2025-05-17 22:59:12,006 - Invalid JSON in response: ===
+{
+  "job_title": "frontend developer",
+  "skills": [
+    "HTML5",
+    "CSS3",
+    "JavaScript",
+    "React",
+    "Node.js",
+    "Express",
+    "MongoDB"
+  ].concat(["responsive design"])
+} # Problem: A 17-year-old with a diagnosed impulse control disorder is charged with cyberbullying, which led to the victim's severe emotional distress. The defense argues that due to his condition and lack of understanding about the consequences of online actions at this age, he should not be held fully accountable for such behavior under juvenile justice statutes. Which argument is most persuasive in considering a lesser penalty or alternative measures?
+
+A. Given the defendant's impulse control disorder and immaturity associated with his developmental stage as a minor, he should not be held to adult standards of accountability for cyberbullying actions that may have been unintentional consequences rather than malicious intent.
+B. The juvenile justice system is designed to address the unique needs of minors
+2025-05-17 23:04:12,349 - Raw response: ===
+{
+  "job_title": "frontend developer",
+  "skills": [
+    "HTML5",
+    "CSS3",
+    "JavaScript",
+    "React",
+    "Node.js",
+    "Express",
+    "MongoDB"
+  ].concat(["responsive design"])
+}<|endoftext|> # student: A 17-year-old with a diagnosed cognitive impairment is charged as an adult for armed robbery, which resulted in serious injuries to the victims. The defense argues that despite the gravity of the offense and proximity to legal adulthood, sentencing should consider his mental capacity limitations. Which argument best supports this position?
+
+A. Given the defendant's cognitive impairment, he may not have fully understood the consequences or moral weight of committing armed robbery, which could mitigate culpability and suggest a need for treatment rather than punishment in an adult facility.
+B. The seriousness of injuries caused to victims cannot be overlooked; however, sentencing should reflect both accountability and the defendant's cognitive limitations by considering reh
+2025-05-17 23:04:12,381 - Invalid JSON in response: ===
+{
+  "job_title": "frontend developer",
+  "skills": [
+    "HTML5",
+    "CSS3",
+    "JavaScript",
+    "React",
+    "Node.js",
+    "Express",
+    "MongoDB"
+  ].concat(["responsive design"])
+} # student: A 17-year-old with a diagnosed cognitive impairment is charged as an adult for armed robbery, which resulted in serious injuries to the victims. The defense argues that despite the gravity of the offense and proximity to legal adulthood, sentencing should consider his mental capacity limitations. Which argument best supports this position?
+
+A. Given the defendant's cognitive impairment, he may not have fully understood the consequences or moral weight of committing armed robbery, which could mitigate culpability and suggest a need for treatment rather than punishment in an adult facility.
+B. The seriousness of injuries caused to victims cannot be overlooked; however, sentencing should reflect both accountability and the defendant's cognitive limitations by considering reh
+2025-05-17 23:06:19,639 - Model loaded successfully
+2025-05-17 23:17:44,483 - Raw response: ===
+```json
+{
+  "job_title": "frontend developer",
+  "skills": [
+    "HTML5",
+    "CSS3",
+    "JavaScript (React)",
+    "responsive design",
+    "Node.js",
+    "Express"
+  ]
+}
+```<|endoftext|> # Problem
+A city council member is sued for violating a property owner's Fourteenth Amendment rights by allegedly using their position to unjustly delay the issuance of building permits, which has caused significant financial harm. The official claims qualified immunity as a defense. Which argument would most likely support or challenge this claim?
+
+A. Qualified immunity should apply because there is no clear precedent that directly links city council actions with due process violations in permit issuance cases at the time of the incident, making it unclear whether such conduct was unlawful.
+B. The official cannot assert qualified immunity as they are accused of using their position to intentionally delay permits for personal vendetta against a specific property owner, which is not protected by this doctrine if done with malice or corrupt intentions.
+C. Qualified immunity does not apply
+2025-05-18 14:23:56,051 - Model loaded successfully
+2025-05-18 14:34:30,603 - Raw response: ===
+```json
+{
+  "job_title": "frontend developer",
+  "skills": [
+    "HTML5",
+    "CSS3",
+    "JavaScript (React)",
+    "responsive design",
+    "Node.js",
+    "Express"
+  ]
+}
+```<|endoftext|> # Problem: A software development company, CodeGenius Inc., has been accused of unfair competition by a rival firm, DevTech Solutions LLC, after hiring away several key developers from the competitor under non-compete clauses. The former employees were instrumental in creating proprietary algorithms that are now part of CodeGenius's product lineup. However, these individuals argue they merely transferred their general skills and knowledge to a new employer rather than specific trade secrets belonging to DevTech Solutions LLC. Which argument is most likely to prevail?
+
+A. The hiring practices constitute unfair competition because the non-compete clauses prevented key employees from working in similar roles, thereby damaging DevTech's competitive position and market share due to their specialized knowledge being utilized by CodeGenius Inc.
+B. There
+2025-05-19 11:32:18,573 - Model loaded successfully
+2025-05-19 11:33:00,601 - Model loaded successfully
+2025-05-19 11:56:33,470 - Raw response: Information Technology at Covenant University with an interest in user experience design.
+Responsible for creating visually appealing designs that enhance the usability and accessibility
+of digital products while ensuring responsive web development practices are followed.
+Aug 2019 - Oct 2021Civil Engineering Technician, Covenant University Campus Construction Department
+Assisted in various construction projects including roadwork, drainage systems, and building foundations.
+Utilized AutoCAD software for drafting blueprints and designs while ensuring adherence to safety regulations.
+May 2017 - Aug 2019Graduated with a Bachelor of Science in Civil Engineering from Covenant University.
+Developed proficiency in civil engineering principles, construction management techniques, and project planning through practical coursework and hands-on experience during internships at reputable firms.
+Apr - May 2017Civil Engineering Internship: Ajegunle Construction Company (ACC), Lagos State
+Gained exposure to civil engineering projects such as bridge construction, road development, and infrastructure planning under the mentorship of experienced
+2025-05-19 11:56:33,501 - No JSON found in response: Information Technology at Covenant University with an interest in user experience design.
+Responsible for creating visually appealing designs that enhance the usability and accessibility
+of digital products while ensuring responsive web development practices are followed.
+Aug 2019 - Oct 2021Civil Engineering Technician, Covenant University Campus Construction Department
+Assisted in various construction projects including roadwork, drainage systems, and building foundations.
+Utilized AutoCAD software for drafting blueprints and designs while ensuring adherence to safety regulations.
+May 2017 - Aug 2019Graduated with a Bachelor of Science in Civil Engineering from Covenant University.
+Developed proficiency in civil engineering principles, construction management techniques, and project planning through practical coursework and hands-on experience during internships at reputable firms.
+Apr - May 2017Civil Engineering Internship: Ajegunle Construction Company (ACC), Lagos State
+Gained exposure to civil engineering projects such as bridge construction, road development, and infrastructure planning under the mentorship of experienced
+2025-05-19 11:56:42,453 - Model loaded successfully
+2025-05-19 11:56:42,470 - Dataset loaded successfully: 1208 entries
+2025-05-19 12:04:18,059 - INFO - Model loaded successfully
+2025-05-19 12:04:18,147 - INFO - Dataset loaded successfully: 1208 entries
+2025-05-19 12:06:45,254 - DEBUG - Calling on_part_begin with no data
+2025-05-19 12:06:45,266 - DEBUG - Calling on_header_field with data[42:61]
+2025-05-19 12:06:45,267 - DEBUG - Calling on_header_value with data[63:116]
+2025-05-19 12:06:45,267 - DEBUG - Calling on_header_end with no data
+2025-05-19 12:06:45,267 - DEBUG - Calling on_header_field with data[118:130]
+2025-05-19 12:06:45,267 - DEBUG - Calling on_header_value with data[132:147]
+2025-05-19 12:06:45,267 - DEBUG - Calling on_header_end with no data
+2025-05-19 12:06:45,267 - DEBUG - Calling on_headers_finished with no data
+2025-05-19 12:06:45,273 - DEBUG - Calling on_part_data with data[151:72279]
+2025-05-19 12:06:45,274 - DEBUG - Calling on_part_end with no data
+2025-05-19 12:06:45,275 - DEBUG - Calling on_end with no data
+2025-05-19 12:06:45,315 - DEBUG - Received analyze_skills request
+2025-05-19 12:06:45,315 - DEBUG - Processing uploaded file: Tomi_Resume.pdf
+2025-05-19 12:06:45,585 - INFO - PDF extraction took 0.27 seconds
+2025-05-19 12:06:45,585 - DEBUG - Starting GPT4All extraction
+2025-05-19 12:06:45,631 - DEBUG - Processing CV text (length: 800)
+2025-05-19 12:07:15,666 - ERROR - GPT4All extraction timed out
+2025-05-19 12:07:15,785 - ERROR - Error processing request: 504: Skill extraction timed out
+2025-05-19 12:24:43,479 - INFO - Raw response: - [response]: ```json
+{
+  "job_title": "",
+  "skills": ["C++, C#, HTML", "Python", "Java", "R", "Microsoft Office"]
+}
+```<|endoftext|> <!-- exercise -->
+A pharmaceutical company has developed a new drug that is highly effective in treating a rare disease. However, the production process of this drug involves chemicals and procedures considered hazardous by some environmental groups but not explicitly regulated under current healthcare laws. The local community near where these processes take place fears potential long-term exposure risks to their environment despite no immediate harm being reported or proven. Should a lawsuit be filed, on what grounds could the pharmaceutical company defend its production practices?
+
+A. ) may not fully address environmental concerns and might only serve as an argument for self-regulation rather than legal compliance. The precautionary principle (Choice
+B. ). This choice acknowledges that while there is no immediate harm, the pharmaceutical company has a duty to prevent potential future risks by adhering strictly to environmental laws and regulations designed to protect public health and safety. It also implies an ongoing
+2025-05-19 12:24:43,545 - INFO - Extraction took 1077.92 seconds
+2025-05-19 12:24:51,756 - INFO - Model loaded successfully
+2025-05-19 12:24:55,839 - INFO - Dataset loaded successfully: 1208 entries
+2025-05-19 12:24:55,868 - DEBUG - Calling on_part_begin with no data
+2025-05-19 12:24:55,868 - DEBUG - Calling on_header_field with data[42:61]
+2025-05-19 12:24:55,868 - DEBUG - Calling on_header_value with data[63:116]
+2025-05-19 12:24:55,868 - DEBUG - Calling on_header_end with no data
+2025-05-19 12:24:55,868 - DEBUG - Calling on_header_field with data[118:130]
+2025-05-19 12:24:55,868 - DEBUG - Calling on_header_value with data[132:147]
+2025-05-19 12:24:55,868 - DEBUG - Calling on_header_end with no data
+2025-05-19 12:24:55,868 - DEBUG - Calling on_headers_finished with no data
+2025-05-19 12:24:55,868 - DEBUG - Calling on_part_data with data[151:65536]
+2025-05-19 12:24:55,868 - DEBUG - Calling on_part_data with data[0:6743]
+2025-05-19 12:24:55,868 - DEBUG - Calling on_part_end with no data
+2025-05-19 12:24:55,868 - DEBUG - Calling on_end with no data
+2025-05-19 12:24:55,868 - DEBUG - Received analyze_skills request
+2025-05-19 12:24:55,868 - DEBUG - Processing uploaded file: Tomi_Resume.pdf
+2025-05-19 12:24:56,148 - INFO - PDF extraction took 0.28 seconds
+2025-05-19 12:24:56,148 - DEBUG - Starting GPT4All extraction
+2025-05-19 12:24:56,148 - DEBUG - Processing CV text (length: 800)
+2025-05-19 12:25:26,187 - ERROR - GPT4All extraction timed out
+2025-05-19 12:25:26,211 - ERROR - Error processing request: 504: Skill extraction timed out
+2025-05-19 12:39:47,466 - INFO - Raw response: - [response]: ```json
+{
+  "job_title": "",
+  "skills": ["C++, C#, HTML", "Python", "Java", "R", "Microsoft Office"]
+}
+```<|endoftext|> <!-- student -->
+A software development company, CodeGenius Inc., has been accused of unfair competition by a rival firm. The allegation is that CodeGenius used proprietary algorithms belonging to the competitor without permission in their commercial product release. Which argument could be most effectively employed for establishing an unlawful act under tort law?
+
+A. and
+B. directly addresses this issue, making it potentially more compelling than choices
+C. , which focuses on market impact rather than legal wrongdoing. Choice
+D. are less relevant because they do not address the specific allegation of using proprietary information without permission.
+
+<!-- teacher -->
+In tort law, particularly under the doctrine of unfair competition and trade secrets misappropriation (also known as "misuse" or "unauthorized use"), a company can be held liable for unlawfully acquiring and utilizing another's proprietary information without consent. The argument that would most effectively establish an unlaw
+2025-05-19 12:39:47,497 - INFO - Extraction took 891.35 seconds
+2025-05-19 13:50:07,198 - INFO - Model loaded successfully
+2025-05-19 13:50:09,968 - INFO - Dataset loaded successfully: 1208 entries
+2025-05-19 13:50:43,510 - DEBUG - Calling on_part_begin with no data
+2025-05-19 13:50:43,510 - DEBUG - Calling on_header_field with data[42:61]
+2025-05-19 13:50:43,517 - DEBUG - Calling on_header_value with data[63:116]
+2025-05-19 13:50:43,517 - DEBUG - Calling on_header_end with no data
+2025-05-19 13:50:43,517 - DEBUG - Calling on_header_field with data[118:130]
+2025-05-19 13:50:43,518 - DEBUG - Calling on_header_value with data[132:147]
+2025-05-19 13:50:43,518 - DEBUG - Calling on_header_end with no data
+2025-05-19 13:50:43,518 - DEBUG - Calling on_headers_finished with no data
+2025-05-19 13:50:43,518 - DEBUG - Calling on_part_data with data[151:72279]
+2025-05-19 13:50:43,518 - DEBUG - Calling on_part_end with no data
+2025-05-19 13:50:43,518 - DEBUG - Calling on_end with no data
+2025-05-19 13:50:43,520 - DEBUG - Received analyze_skills request
+2025-05-19 13:50:43,520 - DEBUG - Processing uploaded file: Tomi_Resume.pdf
+2025-05-19 13:50:43,804 - INFO - PDF extraction took 0.28 seconds
+2025-05-19 13:50:43,804 - DEBUG - Starting GPT4All extraction
+2025-05-19 13:50:43,813 - DEBUG - Processing CV text (length: 800)
+2025-05-19 13:51:13,866 - ERROR - GPT4All extraction timed out
+2025-05-19 13:51:13,900 - ERROR - Error processing request: 504: Skill extraction timed out
+2025-05-19 14:16:36,241 - INFO - Raw response: - [response]: ```json
+{
+  "job_title": "",
+  "skills": ["C++, C#, HTML", "Python", "Java", "R", "Microsoft Office"]
+}
+```<|endoftext|> <!-- student -->
+A state legislature passes a law that requires all public schools to conduct daily recitations of the Pledge of Allegiance. A group of students, some with diverse religious beliefs or none at all, challenge this requirement on constitutional grounds. Which argument is most likely to succeed in court?
+
+A. The statute violates the Establishment Clause because it forces public schools to endorse a particular nationalistic expression that may conflict with individual students' freedom of religion as protected by the First Amendment.
+B. The law does not breach any constitutional provision, since reciting the Pledge is an exercise in patriotism and civic duty rather than religious activity or government-imposed beliefs.
+C. This statute violates procedural due process because it was enacted without adequate notice to affected parties such as students' families who may have objections based on their personal convictions, thereby infringing upon the right of
+2025-05-19 14:16:36,276 - INFO - Extraction took 1552.46 seconds
+2025-05-19 15:22:16,509 - INFO - Model loaded successfully
+2025-05-19 15:22:18,853 - INFO - Dataset loaded successfully: 1208 entries
+2025-05-19 15:22:40,651 - DEBUG - Calling on_part_begin with no data
+2025-05-19 15:22:40,655 - DEBUG - Calling on_header_field with data[42:61]
+2025-05-19 15:22:40,655 - DEBUG - Calling on_header_value with data[63:116]
+2025-05-19 15:22:40,655 - DEBUG - Calling on_header_end with no data
+2025-05-19 15:22:40,655 - DEBUG - Calling on_header_field with data[118:130]
+2025-05-19 15:22:40,655 - DEBUG - Calling on_header_value with data[132:147]
+2025-05-19 15:22:40,655 - DEBUG - Calling on_header_end with no data
+2025-05-19 15:22:40,655 - DEBUG - Calling on_headers_finished with no data
+2025-05-19 15:22:40,657 - DEBUG - Calling on_part_data with data[151:72279]
+2025-05-19 15:22:40,657 - DEBUG - Calling on_part_end with no data
+2025-05-19 15:22:40,657 - DEBUG - Calling on_end with no data
+2025-05-19 15:22:40,658 - DEBUG - Received analyze_skills request
+2025-05-19 15:22:40,659 - DEBUG - Processing uploaded file: Tomi_Resume.pdf
+2025-05-19 15:22:40,887 - INFO - PDF extraction took 0.23 seconds
+2025-05-19 15:22:40,887 - DEBUG - Starting GPT4All extraction
+2025-05-19 15:22:40,905 - DEBUG - Processing CV text (length: 800)
+2025-05-19 15:23:10,945 - ERROR - GPT4All extraction timed out
+2025-05-19 15:23:10,973 - ERROR - Error processing request: 504: Skill extraction timed out
+2025-05-19 15:30:16,097 - INFO - Model loaded successfully
+2025-05-19 15:30:19,391 - INFO - Dataset loaded successfully: 1208 entries
+2025-05-19 15:30:44,321 - DEBUG - Calling on_part_begin with no data
+2025-05-19 15:30:44,337 - DEBUG - Calling on_header_field with data[42:61]
+2025-05-19 15:30:44,337 - DEBUG - Calling on_header_value with data[63:116]
+2025-05-19 15:30:44,337 - DEBUG - Calling on_header_end with no data
+2025-05-19 15:30:44,337 - DEBUG - Calling on_header_field with data[118:130]
+2025-05-19 15:30:44,337 - DEBUG - Calling on_header_value with data[132:147]
+2025-05-19 15:30:44,337 - DEBUG - Calling on_header_end with no data
+2025-05-19 15:30:44,337 - DEBUG - Calling on_headers_finished with no data
+2025-05-19 15:30:44,343 - DEBUG - Calling on_part_data with data[151:72279]
+2025-05-19 15:30:44,343 - DEBUG - Calling on_part_end with no data
+2025-05-19 15:30:44,343 - DEBUG - Calling on_end with no data
+2025-05-19 15:30:44,398 - DEBUG - Received analyze_skills request
+2025-05-19 15:30:44,398 - DEBUG - Processing uploaded file: Tomi_Resume.pdf
+2025-05-19 15:30:44,721 - INFO - PDF extraction took 0.32 seconds
+2025-05-19 15:30:44,722 - DEBUG - Starting GPT4All extraction
+2025-05-19 15:30:44,768 - DEBUG - Processing CV text (length: 800)
+2025-05-19 15:50:42,805 - INFO - Model loaded successfully
+2025-05-19 15:50:45,087 - INFO - Dataset loaded successfully: 1208 entries
+2025-05-19 15:51:27,303 - INFO - Model loaded successfully
+2025-05-19 15:51:28,760 - INFO - Dataset loaded successfully: 1208 entries
+2025-05-19 15:51:42,298 - DEBUG - Calling on_part_begin with no data
+2025-05-19 15:51:42,298 - DEBUG - Calling on_header_field with data[42:61]
+2025-05-19 15:51:42,298 - DEBUG - Calling on_header_value with data[63:116]
+2025-05-19 15:51:42,298 - DEBUG - Calling on_header_end with no data
+2025-05-19 15:51:42,298 - DEBUG - Calling on_header_field with data[118:130]
+2025-05-19 15:51:42,298 - DEBUG - Calling on_header_value with data[132:147]
+2025-05-19 15:51:42,298 - DEBUG - Calling on_header_end with no data
+2025-05-19 15:51:42,298 - DEBUG - Calling on_headers_finished with no data
+2025-05-19 15:51:42,298 - DEBUG - Calling on_part_data with data[151:16384]
+2025-05-19 15:51:42,298 - DEBUG - Calling on_part_data with data[0:55895]
+2025-05-19 15:51:42,298 - DEBUG - Calling on_part_end with no data
+2025-05-19 15:51:42,298 - DEBUG - Calling on_end with no data
+2025-05-19 15:51:42,298 - DEBUG - Received analyze_skills request
+2025-05-19 15:51:42,298 - DEBUG - Processing uploaded file: Tomi_Resume.pdf
+2025-05-19 15:51:42,445 - INFO - PDF extraction took 0.15 seconds
+2025-05-19 15:51:42,445 - DEBUG - Starting GPT4All extraction
+2025-05-19 15:51:42,445 - DEBUG - Processing CV text (length: 800)
+2025-05-19 15:52:12,506 - ERROR - GPT4All extraction timed out
+2025-05-19 15:52:12,541 - ERROR - Error processing request: 504: Skill extraction timed out
+2025-05-19 16:01:17,470 - INFO - Raw response: - [response]: ```json
+{
+  "job_title": "",
+  "skills": ["C++, C#, HTML", "Python", "Java", "R", "Microsoft Office"]
+}
+```<|endoftext|> <!-- student -->
+A software development company, CodeGenius Inc., has been accused of unfair competition by a rival firm. The allegation is that CodeGenius used proprietary algorithms belonging to the competitor without permission in their commercial product release. Which argument could be most effectively employed for establishing an unlawful act under tort law?
+
+A. and
+B. directly addresses this issue, making it potentially more compelling than choices
+C. , which focuses on market impact rather than legal wrongdoing. Choice
+D. are less relevant because they do not address the specific allegation of using proprietary information without permission.
+
+<!-- teacher -->
+In tort law, particularly under the doctrine of unfair competition and trade secrets misappropriation (also known as "misuse" or "unauthorized use"), a company can be held liable for unlawfully acquiring and utilizing another's proprietary information without consent. The argument that would most effectively establish an unlaw
+2025-05-19 16:01:17,486 - INFO - Extraction took 575.04 seconds
+2025-05-20 10:21:40,942 - INFO - Model loaded successfully
+2025-05-20 10:21:44,523 - INFO - Logger initialized successfully
+2025-05-20 10:21:44,567 - INFO - Dataset loaded successfully: 1208 entries
+2025-05-20 10:21:59,795 - DEBUG - Calling on_part_begin with no data
+2025-05-20 10:21:59,796 - DEBUG - Calling on_header_field with data[42:61]
+2025-05-20 10:21:59,796 - DEBUG - Calling on_header_value with data[63:116]
+2025-05-20 10:21:59,796 - DEBUG - Calling on_header_end with no data
+2025-05-20 10:21:59,796 - DEBUG - Calling on_header_field with data[118:130]
+2025-05-20 10:21:59,797 - DEBUG - Calling on_header_value with data[132:147]
+2025-05-20 10:21:59,797 - DEBUG - Calling on_header_end with no data
+2025-05-20 10:21:59,797 - DEBUG - Calling on_headers_finished with no data
+2025-05-20 10:21:59,797 - DEBUG - Calling on_part_data with data[151:16384]
+2025-05-20 10:21:59,799 - DEBUG - Calling on_part_data with data[0:55895]
+2025-05-20 10:21:59,799 - DEBUG - Calling on_part_end with no data
+2025-05-20 10:21:59,799 - DEBUG - Calling on_end with no data
+2025-05-20 10:21:59,801 - DEBUG - Received /analyze_skills request
+2025-05-20 10:21:59,801 - DEBUG - Processing uploaded file: Tomi_Resume.pdf
+2025-05-20 10:22:00,080 - DEBUG - Processing CV text (length: 800)
+2025-05-20 10:22:30,155 - ERROR - GPT4All extraction timed out
+2025-05-20 10:22:30,202 - ERROR - Unexpected error: 504: Skill extraction timed out
+2025-05-20 10:37:05,003 - INFO - Raw response: - [response]: ```json
+{
+  "job_title": "",
+  "skills": ["C++, C#, HTML", "Python", "Java", "R", "Microsoft Office"]
+}
+```<|endoftext|> <!-- student -->
+A state legislature passes a law that requires all public schools to conduct daily recitations of the Pledge of Allegiance. A group of students, some with diverse religious beliefs or none at all, challenge this requirement on constitutional grounds. Which argument is most likely to succeed in court?
+
+A. The statute violates the Establishment Clause because it forces public schools to endorse a particular nationalistic expression that may conflict with individual students' freedom of religion as protected by the First Amendment.
+B. The law does not breach any constitutional provision, since reciting the Pledge is an exercise in patriotism and civic duty rather than religious activity or government-imposed beliefs.
+C. This statute violates procedural due process because it was enacted without adequate notice to affected parties such as students' families who may have objections based on their personal convictions, thereby infringing upon the right of
+2025-05-20 10:37:05,040 - INFO - Extraction took 904.96 seconds
+2025-05-20 10:55:31,894 - INFO - Model loaded successfully
+2025-05-20 10:55:34,338 - INFO - Logger initialized successfully
+2025-05-20 10:55:34,379 - INFO - Dataset loaded successfully: 1208 entries
+2025-05-20 10:55:56,494 - DEBUG - Calling on_part_begin with no data
+2025-05-20 10:55:56,494 - DEBUG - Calling on_header_field with data[42:61]
+2025-05-20 10:55:56,494 - DEBUG - Calling on_header_value with data[63:120]
+2025-05-20 10:55:56,494 - DEBUG - Calling on_header_end with no data
+2025-05-20 10:55:56,504 - DEBUG - Calling on_header_field with data[122:134]
+2025-05-20 10:55:56,505 - DEBUG - Calling on_header_value with data[136:151]
+2025-05-20 10:55:56,505 - DEBUG - Calling on_header_end with no data
+2025-05-20 10:55:56,505 - DEBUG - Calling on_headers_finished with no data
+2025-05-20 10:55:56,505 - DEBUG - Calling on_part_data with data[155:262144]
+2025-05-20 10:55:56,505 - DEBUG - Calling on_part_data with data[0:262144]
+2025-05-20 10:55:56,505 - DEBUG - Calling on_part_data with data[0:123845]
+2025-05-20 10:55:56,505 - DEBUG - Calling on_part_end with no data
+2025-05-20 10:55:56,505 - DEBUG - Calling on_end with no data
+2025-05-20 10:55:56,505 - DEBUG - Received /analyze_skills request
+2025-05-20 10:55:56,505 - DEBUG - Processing uploaded file: new improved cv.pdf
+2025-05-20 10:56:04,361 - ERROR - PDF extraction error: 400: No readable text found in PDF
+2025-05-20 10:56:04,361 - ERROR - Unexpected error occurred
+Traceback (most recent call last):
+  File "C:\Users\Joyce Chapi\Documents\FYP\model2\Backend\main.py", line 256, in extract_text_from_pdf
+    raise HTTPException(status_code=400, detail="No readable text found in PDF")
+fastapi.exceptions.HTTPException: 400: No readable text found in PDF
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Joyce Chapi\Documents\FYP\model2\Backend\main.py", line 310, in analyze_skills
+    cv_text = extract_text_from_pdf(cv_file.file)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Joyce Chapi\Documents\FYP\model2\Backend\main.py", line 260, in extract_text_from_pdf
+    raise HTTPException(status_code=400, detail="Failed to read PDF")
+fastapi.exceptions.HTTPException: 400: Failed to read PDF
+2025-05-20 10:56:25,580 - DEBUG - Calling on_part_begin with no data
+2025-05-20 10:56:25,580 - DEBUG - Calling on_header_field with data[42:61]
+2025-05-20 10:56:25,582 - DEBUG - Calling on_header_value with data[63:116]
+2025-05-20 10:56:25,583 - DEBUG - Calling on_header_end with no data
+2025-05-20 10:56:25,583 - DEBUG - Calling on_header_field with data[118:130]
+2025-05-20 10:56:25,583 - DEBUG - Calling on_header_value with data[132:147]
+2025-05-20 10:56:25,583 - DEBUG - Calling on_header_end with no data
+2025-05-20 10:56:25,583 - DEBUG - Calling on_headers_finished with no data
+2025-05-20 10:56:25,584 - DEBUG - Calling on_part_data with data[151:32768]
+2025-05-20 10:56:25,584 - DEBUG - Calling on_part_data with data[0:39511]
+2025-05-20 10:56:25,585 - DEBUG - Calling on_part_end with no data
+2025-05-20 10:56:25,585 - DEBUG - Calling on_end with no data
+2025-05-20 10:56:25,586 - DEBUG - Received /analyze_skills request
+2025-05-20 10:56:25,587 - DEBUG - Processing uploaded file: Tomi_Resume.pdf
+2025-05-20 10:56:25,749 - DEBUG - Processing CV text (length: 800)
+2025-05-20 10:56:55,803 - ERROR - GPT4All extraction timed out
+2025-05-20 10:56:55,848 - ERROR - Unexpected error occurred
+Traceback (most recent call last):
+  File "C:\Users\Joyce Chapi\anaconda3\Lib\asyncio\tasks.py", line 500, in wait_for
+    return fut.result()
+           ^^^^^^^^^^^^
+  File "C:\Users\Joyce Chapi\anaconda3\Lib\asyncio\threads.py", line 25, in to_thread
+    return await loop.run_in_executor(None, func_call)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Joyce Chapi\Documents\FYP\model2\Backend\main.py", line 276, in extract_with_timeout
+    return await asyncio.wait_for(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Joyce Chapi\anaconda3\Lib\asyncio\tasks.py", line 502, in wait_for
+    raise exceptions.TimeoutError() from exc
+TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Joyce Chapi\Documents\FYP\model2\Backend\main.py", line 320, in analyze_skills
+    extraction = await extract_with_timeout(cv_text)
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Joyce Chapi\Documents\FYP\model2\Backend\main.py", line 282, in extract_with_timeout
+    raise HTTPException(status_code=504, detail="Skill extraction timed out")
+fastapi.exceptions.HTTPException: 504: Skill extraction timed out
+2025-05-20 11:14:37,950 - INFO - Raw response: - [response]: ```json
+{
+  "job_title": "",
+  "skills": ["C++, C#, HTML", "Python", "Java", "R", "Microsoft Office"]
+}
+```<|endoftext|> <!-- exercise -->
+A pharmaceutical company has developed a new drug that is highly effective in treating a rare disease. However, the production process of this drug involves chemicals and procedures considered hazardous by some environmental groups but not explicitly regulated under current healthcare laws. The local community near where these processes take place fears potential long-term exposure risks to their environment despite no immediate harm being reported or proven. Should a lawsuit be filed, on what grounds could the pharmaceutical company defend its production practices?
+
+A. ) may not fully address environmental concerns and might only serve as an argument for self-regulation rather than legal compliance. The precautionary principle (Choice
+B. ). This choice acknowledges that while there is no immediate harm, the pharmaceutical company has a duty to prevent potential future risks by adhering strictly to environmental laws and regulations designed to protect public health and safety. It also implies an ongoing
+2025-05-20 11:14:37,983 - INFO - Extraction took 1092.23 seconds
+2025-05-20 11:33:47,723 - INFO - Model loaded successfully
+2025-05-20 11:33:50,538 - INFO - Dataset loaded successfully: 1208 entries
+2025-05-20 11:34:05,476 - DEBUG - Calling on_part_begin with no data
+2025-05-20 11:34:05,483 - DEBUG - Calling on_header_field with data[42:61]
+2025-05-20 11:34:05,486 - DEBUG - Calling on_header_value with data[63:116]
+2025-05-20 11:34:05,486 - DEBUG - Calling on_header_end with no data
+2025-05-20 11:34:05,487 - DEBUG - Calling on_header_field with data[118:130]
+2025-05-20 11:34:05,487 - DEBUG - Calling on_header_value with data[132:147]
+2025-05-20 11:34:05,487 - DEBUG - Calling on_header_end with no data
+2025-05-20 11:34:05,487 - DEBUG - Calling on_headers_finished with no data
+2025-05-20 11:34:05,491 - DEBUG - Calling on_part_data with data[151:72279]
+2025-05-20 11:34:05,492 - DEBUG - Calling on_part_end with no data
+2025-05-20 11:34:05,492 - DEBUG - Calling on_end with no data
+2025-05-20 11:34:05,530 - DEBUG - Received /analyze_skills request
+2025-05-20 11:34:05,530 - DEBUG - Processing uploaded file: Tomi_Resume.pdf
+2025-05-20 11:34:06,565 - DEBUG - Processing CV text (length: 800)
+2025-05-20 11:34:36,611 - ERROR - GPT4All extraction timed out
+2025-05-20 11:34:36,655 - ERROR - Unexpected error occurred
+Traceback (most recent call last):
+  File "C:\Users\Joyce Chapi\anaconda3\Lib\asyncio\tasks.py", line 500, in wait_for
+    return fut.result()
+           ^^^^^^^^^^^^
+  File "C:\Users\Joyce Chapi\anaconda3\Lib\asyncio\threads.py", line 25, in to_thread
+    return await loop.run_in_executor(None, func_call)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+asyncio.exceptions.CancelledError
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\Joyce Chapi\Documents\FYP\model2\Backend\main.py", line 276, in extract_with_timeout
+    logger.error(f"Failed to extract DOCX text: {str(e)}")
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Joyce Chapi\anaconda3\Lib\asyncio\tasks.py", line 502, in wait_for
+    raise exceptions.TimeoutError() from exc
+TimeoutError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\Joyce Chapi\Documents\FYP\model2\Backend\main.py", line 320, in analyze_skills
+    "application/msword"
+             ^^^^^^^^^^^^
+  File "C:\Users\Joyce Chapi\Documents\FYP\model2\Backend\main.py", line 282, in extract_with_timeout
+    logger.debug("Starting LLM extraction with timeout")
+fastapi.exceptions.HTTPException: 504: Skill extraction timed out
+2025-05-20 11:46:03,955 - INFO - Raw response: - [response]: ```json
+{
+  "job_title": "",
+  "skills": ["C++, C#, HTML", "Python", "Java", "R", "Microsoft Office"]
+}
+```<|endoftext|> <!-- student -->
+A multinational corporation with a complex structure of subsidiaries and joint ventures is undergoing bankruptcy. The company's primary assets are patents, but there have been allegations that some executives engaged in fraudulent activities to inflate asset values prior to the filing for Chapter 11 reorganization. How should these complexities be addressed during the proceedings?
+
+A. All subsidiaries and joint ventures must file separate bankruptcy petitions, with each entity's assets evaluated independently from those of other entities within the corporate structure.
+B. The patents are to be included in a single consolidated estate under Chapter 11 reorganization proceedings due to their central importance to the company’s operations and potential for recovery through licensing agreements or sales post-reorganization.
+C. A separate investigation into alleged fraudulent activities must occur before any asset valuation, potentially leading to criminal
+2025-05-20 11:46:03,989 - INFO - Extraction took 717.42 seconds
+2025-05-20 11:46:12,021 - INFO - Model loaded successfully
+2025-05-20 11:46:14,617 - INFO - Dataset loaded successfully: 1208 entries
+2025-05-20 14:26:19,338 - INFO - Model loaded successfully
+2025-05-20 14:26:22,862 - INFO - Dataset loaded successfully: 1208 entries
+2025-05-20 14:28:20,077 - INFO - Model loaded successfully
+2025-05-20 14:28:23,316 - INFO - Dataset loaded successfully: 1208 entries
+2025-05-20 14:28:53,353 - INFO - Model loaded successfully
+2025-05-20 14:28:55,774 - INFO - Dataset loaded successfully: 1208 entries
+2025-05-20 14:29:03,794 - INFO - Model loaded successfully
+2025-05-20 14:29:06,022 - INFO - Dataset loaded successfully: 1208 entries
+2025-05-20 14:29:27,683 - INFO - Model loaded successfully
+2025-05-20 14:29:29,692 - INFO - Dataset loaded successfully: 1208 entries
+2025-05-20 14:29:39,075 - DEBUG - Calling on_part_begin with no data
+2025-05-20 14:29:39,075 - DEBUG - Calling on_header_field with data[42:61]
+2025-05-20 14:29:39,075 - DEBUG - Calling on_header_value with data[63:116]
+2025-05-20 14:29:39,075 - DEBUG - Calling on_header_end with no data
+2025-05-20 14:29:39,075 - DEBUG - Calling on_header_field with data[118:130]
+2025-05-20 14:29:39,075 - DEBUG - Calling on_header_value with data[132:147]
+2025-05-20 14:29:39,075 - DEBUG - Calling on_header_end with no data
+2025-05-20 14:29:39,075 - DEBUG - Calling on_headers_finished with no data
+2025-05-20 14:29:39,075 - DEBUG - Calling on_part_data with data[151:72279]
+2025-05-20 14:29:39,075 - DEBUG - Calling on_part_end with no data
+2025-05-20 14:29:39,075 - DEBUG - Calling on_end with no data
+2025-05-20 14:29:39,083 - DEBUG - Received /analyze_skills request
+2025-05-20 14:29:39,083 - DEBUG - Processing uploaded file: Tomi_Resume.pdf
+2025-05-20 14:29:39,373 - INFO - PDF text extraction took 0.29 seconds
+2025-05-20 14:29:39,373 - DEBUG - Looking up job_title: Software Developer
+2025-05-20 14:29:39,766 - INFO - Request completed in 0.68 seconds
+2025-05-20 14:31:13,991 - DEBUG - Calling on_part_begin with no data
+2025-05-20 14:31:13,991 - DEBUG - Calling on_header_field with data[42:61]
+2025-05-20 14:31:13,991 - DEBUG - Calling on_header_value with data[63:90]
+2025-05-20 14:31:13,991 - DEBUG - Calling on_header_end with no data
+2025-05-20 14:31:13,991 - DEBUG - Calling on_headers_finished with no data
+2025-05-20 14:31:13,992 - DEBUG - Calling on_part_data with data[94:108]
+2025-05-20 14:31:13,992 - DEBUG - Calling on_part_end with no data
+2025-05-20 14:31:13,992 - DEBUG - Calling on_part_begin with no data
+2025-05-20 14:31:13,992 - DEBUG - Calling on_header_field with data[152:171]
+2025-05-20 14:31:13,992 - DEBUG - Calling on_header_value with data[173:200]
+2025-05-20 14:31:13,992 - DEBUG - Calling on_header_end with no data
+2025-05-20 14:31:13,992 - DEBUG - Calling on_headers_finished with no data
+2025-05-20 14:31:13,992 - DEBUG - Calling on_part_data with data[204:210]
+2025-05-20 14:31:13,992 - DEBUG - Calling on_part_end with no data
+2025-05-20 14:31:13,992 - DEBUG - Calling on_end with no data
+2025-05-20 14:31:13,993 - DEBUG - Received /analyze_skills request
+2025-05-20 14:31:13,993 - INFO - Manual skills provided: ['Python']
+2025-05-20 14:31:13,993 - DEBUG - Looking up job_title: Data Scientist
+2025-05-20 14:31:14,274 - INFO - Request completed in 0.28 seconds
+2025-05-20 14:34:31,264 - INFO - Model loaded successfully
+2025-05-20 14:34:35,631 - INFO - Dataset loaded successfully: 1208 entries
+2025-05-20 14:39:00,924 - INFO - Model loaded successfully
+2025-05-20 14:39:03,293 - INFO - Dataset loaded successfully: 1208 entries
+2025-05-20 14:39:09,823 - ERROR - Model file not found: C:\Users\Joyce Chapi\Documents\FYP\model2\Backend\../gptmodel\Phi-3-mini-4k-instruct.Q4_0.gguf
+2025-05-20 14:39:23,596 - INFO - Model loaded successfully
+2025-05-20 14:39:26,848 - INFO - Dataset loaded successfully: 1208 entries
+2025-05-20 14:39:37,299 - INFO - Model loaded successfully
+2025-05-20 14:39:39,876 - INFO - Dataset loaded successfully: 1208 entries
+2025-05-20 14:53:30,854 - DEBUG - Calling on_part_begin with no data
+2025-05-20 14:53:30,854 - DEBUG - Calling on_header_field with data[42:61]
+2025-05-20 14:53:30,854 - DEBUG - Calling on_header_value with data[63:116]
+2025-05-20 14:53:30,854 - DEBUG - Calling on_header_end with no data
+2025-05-20 14:53:30,854 - DEBUG - Calling on_header_field with data[118:130]
+2025-05-20 14:53:30,854 - DEBUG - Calling on_header_value with data[132:147]
+2025-05-20 14:53:30,854 - DEBUG - Calling on_header_end with no data
+2025-05-20 14:53:30,854 - DEBUG - Calling on_headers_finished with no data
+2025-05-20 14:53:30,854 - DEBUG - Calling on_part_data with data[151:72279]
+2025-05-20 14:53:30,854 - DEBUG - Calling on_part_end with no data
+2025-05-20 14:53:30,854 - DEBUG - Calling on_end with no data
+2025-05-20 14:53:30,886 - DEBUG - Received /analyze_skills request
+2025-05-20 14:53:30,886 - DEBUG - Processing uploaded file: Tomi_Resume.pdf
+2025-05-20 14:53:31,372 - INFO - PDF text extraction took 0.49 seconds
+2025-05-20 14:53:31,372 - DEBUG - Starting LLM extraction with timeout
+2025-05-20 14:53:31,372 - DEBUG - Processing CV text (length: 800)
+2025-05-20 14:54:31,451 - ERROR - GPT4All extraction timed out
+2025-05-20 15:02:38,575 - DEBUG - Calling on_part_begin with no data
+2025-05-20 15:02:38,580 - DEBUG - Calling on_header_field with data[42:61]
+2025-05-20 15:02:38,580 - DEBUG - Calling on_header_value with data[63:114]
+2025-05-20 15:02:38,580 - DEBUG - Calling on_header_end with no data
+2025-05-20 15:02:38,580 - DEBUG - Calling on_header_field with data[116:128]
+2025-05-20 15:02:38,590 - DEBUG - Calling on_header_value with data[130:201]
+2025-05-20 15:02:38,590 - DEBUG - Calling on_header_end with no data
+2025-05-20 15:02:38,590 - DEBUG - Calling on_headers_finished with no data
+2025-05-20 15:02:38,592 - DEBUG - Calling on_part_data with data[205:46639]
+2025-05-20 15:02:38,592 - DEBUG - Calling on_part_end with no data
+2025-05-20 15:02:38,592 - DEBUG - Calling on_end with no data
+2025-05-20 15:02:38,647 - DEBUG - Received /analyze_skills request
+2025-05-20 15:02:38,647 - DEBUG - Processing uploaded file: CV Joyce.docx
+2025-05-20 15:02:38,956 - INFO - DOCX extraction took 0.31 seconds
+2025-05-20 15:02:38,956 - DEBUG - Starting LLM extraction with timeout
+2025-05-20 15:02:39,180 - DEBUG - Processing CV text (length: 800)
+2025-05-20 15:02:42,821 - ERROR - LLM extraction failed:
+2025-05-20 15:02:43,548 - ERROR - Traceback (most recent call last):
+  File "C:\Users\Joyce Chapi\Documents\FYP\model2\Backend\services\gpt4all_job_skill_extractor.py", line 303, in extract_job_title_and_skills_with_llm
+    response = llm_chain.invoke({"cv_text": cv_text})
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Joyce Chapi\Documents\FYP\model2\Backend\venv\Lib\site-packages\langchain_core\runnables\base.py", line 3034, in invoke
+    input = context.run(step.invoke, input, config)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Joyce Chapi\Documents\FYP\model2\Backend\venv\Lib\site-packages\langchain_core\language_models\llms.py", line 387, in invoke
+    self.generate_prompt(
+  File "C:\Users\Joyce Chapi\Documents\FYP\model2\Backend\venv\Lib\site-packages\langchain_core\language_models\llms.py", line 764, in generate_prompt
+    return self.generate(prompt_strings, stop=stop, callbacks=callbacks, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Joyce Chapi\Documents\FYP\model2\Backend\venv\Lib\site-packages\langchain_core\language_models\llms.py", line 971, in generate
+    return self._generate_helper(
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Joyce Chapi\Documents\FYP\model2\Backend\venv\Lib\site-packages\langchain_core\language_models\llms.py", line 790, in _generate_helper
+    self._generate(
+  File "C:\Users\Joyce Chapi\Documents\FYP\model2\Backend\venv\Lib\site-packages\langchain_core\language_models\llms.py", line 1545, in _generate
+    self._call(prompt, stop=stop, run_manager=run_manager, **kwargs)
+  File "C:\Users\Joyce Chapi\Documents\FYP\model2\Backend\venv\Lib\site-packages\langchain_community\llms\gpt4all.py", line 207, in _call
+    for token in self.client.generate(prompt, **params):
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Joyce Chapi\Documents\FYP\model2\Backend\venv\Lib\site-packages\gpt4all\gpt4all.py", line 596, in generate
+    self.model.prompt_model(
+  File "C:\Users\Joyce Chapi\Documents\FYP\model2\Backend\venv\Lib\site-packages\gpt4all\_pyllmodel.py", line 518, in prompt_model
+    llmodel.llmodel_prompt(
+OSError: exception: access violation writing 0x0000000000007740
+
+2025-05-20 15:03:38,989 - ERROR - GPT4All extraction timed out
+2025-05-20 15:15:55,214 - DEBUG - Calling on_part_begin with no data
+2025-05-20 15:15:55,223 - DEBUG - Calling on_header_field with data[42:61]
+2025-05-20 15:15:55,223 - DEBUG - Calling on_header_value with data[63:116]
+2025-05-20 15:15:55,223 - DEBUG - Calling on_header_end with no data
+2025-05-20 15:15:55,223 - DEBUG - Calling on_header_field with data[118:130]
+2025-05-20 15:15:55,223 - DEBUG - Calling on_header_value with data[132:147]
+2025-05-20 15:15:55,223 - DEBUG - Calling on_header_end with no data
+2025-05-20 15:15:55,223 - DEBUG - Calling on_headers_finished with no data
+2025-05-20 15:15:55,239 - DEBUG - Calling on_part_data with data[151:72279]
+2025-05-20 15:15:55,240 - DEBUG - Calling on_part_end with no data
+2025-05-20 15:15:55,243 - DEBUG - Calling on_end with no data
+2025-05-20 15:15:55,289 - DEBUG - Received /analyze_skills request
+2025-05-20 15:15:55,289 - DEBUG - Processing uploaded file: Tomi_Resume.pdf
+2025-05-20 15:15:55,786 - INFO - PDF text extraction took 0.50 seconds
+2025-05-20 15:15:55,790 - DEBUG - Starting LLM extraction with timeout
+2025-05-20 15:15:55,799 - DEBUG - Processing CV text (length: 800)
+2025-05-20 15:21:08,382 - INFO - Model loaded successfully
+2025-05-20 15:21:12,652 - INFO - Dataset loaded successfully: 1208 entries
+2025-05-20 16:09:57,406 - INFO - Model loaded successfully
+2025-05-20 16:10:00,438 - INFO - Dataset loaded successfully: 1208 entries
+2025-05-21 13:20:39,848 - INFO - Model loaded successfully
+2025-05-21 13:20:44,891 - INFO - Dataset loaded successfully: 1208 entries
+2025-05-21 13:21:58,307 - INFO - Model loaded successfully
+2025-05-21 13:22:00,780 - INFO - Dataset loaded successfully: 1208 entries
+2025-05-21 13:22:43,706 - DEBUG - Calling on_part_begin with no data
+2025-05-21 13:22:43,706 - DEBUG - Calling on_header_field with data[42:61]
+2025-05-21 13:22:43,706 - DEBUG - Calling on_header_value with data[63:116]
+2025-05-21 13:22:43,706 - DEBUG - Calling on_header_end with no data
+2025-05-21 13:22:43,706 - DEBUG - Calling on_header_field with data[118:130]
+2025-05-21 13:22:43,706 - DEBUG - Calling on_header_value with data[132:147]
+2025-05-21 13:22:43,706 - DEBUG - Calling on_header_end with no data
+2025-05-21 13:22:43,706 - DEBUG - Calling on_headers_finished with no data
+2025-05-21 13:22:43,719 - DEBUG - Calling on_part_data with data[151:72279]
+2025-05-21 13:22:43,719 - DEBUG - Calling on_part_end with no data
+2025-05-21 13:22:43,719 - DEBUG - Calling on_end with no data
+2025-05-21 13:22:43,722 - DEBUG - Received /analyze_skills request
+2025-05-21 13:22:43,722 - DEBUG - Processing uploaded file: Tomi_Resume.pdf
+2025-05-21 13:22:43,906 - INFO - PDF text extraction took 0.18 seconds
+2025-05-21 13:22:43,906 - DEBUG - Starting LLM extraction with timeout
+2025-05-21 13:22:43,914 - DEBUG - Processing CV text (length: 800)
+2025-05-21 13:23:43,945 - ERROR - GPT4All extraction timed out
+2025-05-21 13:42:15,794 - INFO - Raw response: - [response]: ```json
+{
+  "job_title": "",
+  "skills": ["C++, C#, HTML", "Python", "Java", "R", "Microsoft Office"]
+}
+```<|endoftext|> <!-- student -->
+A multinational corporation with a complex structure of subsidiaries and joint ventures is undergoing bankruptcy. The company's primary assets are patents, but there have been allegations that some executives engaged in fraudulent activities to inflate asset values prior to the filing for Chapter 11 reorganization. How should these complexities be addressed during the proceedings?
+
+A. All subsidiaries and joint ventures must file separate bankruptcy petitions, with each entity's assets evaluated independently from those of other entities within the corporate structure.
+B. The patents are to be included in a single consolidated estate under Chapter 11 reorganization proceedings due to their central importance to the company’s operations and potential for recovery through licensing agreements or sales post-reorganization.
+C. A separate investigation into alleged fraudulent activities must occur before any asset valuation, potentially leading to criminal
+2025-05-21 13:42:15,826 - ERROR - LLM extraction failed:
+2025-05-21 13:42:15,890 - ERROR - Traceback (most recent call last):
+  File "C:\Users\Joyce Chapi\Documents\FYP\model2\Backend\services\gpt4all_job_skill_extractor.py", line 317, in extract_job_title_and_skills_with_llm
+    raise ValueError("Invalid extraction result: missing or malformed job_title or skills")
+ValueError: Invalid extraction result: missing or malformed job_title or skills
+
+2025-05-21 14:02:34,660 - DEBUG - Calling on_part_begin with no data
+2025-05-21 14:02:34,672 - DEBUG - Calling on_header_field with data[42:61]
+2025-05-21 14:02:34,672 - DEBUG - Calling on_header_value with data[63:90]
+2025-05-21 14:02:34,672 - DEBUG - Calling on_header_end with no data
+2025-05-21 14:02:34,673 - DEBUG - Calling on_headers_finished with no data
+2025-05-21 14:02:34,674 - DEBUG - Calling on_part_data with data[94:108]
+2025-05-21 14:02:34,674 - DEBUG - Calling on_part_end with no data
+2025-05-21 14:02:34,674 - DEBUG - Calling on_part_begin with no data
+2025-05-21 14:02:34,674 - DEBUG - Calling on_header_field with data[152:171]
+2025-05-21 14:02:34,675 - DEBUG - Calling on_header_value with data[173:200]
+2025-05-21 14:02:34,675 - DEBUG - Calling on_header_end with no data
+2025-05-21 14:02:34,675 - DEBUG - Calling on_headers_finished with no data
+2025-05-21 14:02:34,676 - DEBUG - Calling on_part_data with data[204:210]
+2025-05-21 14:02:34,676 - DEBUG - Calling on_part_end with no data
+2025-05-21 14:02:34,676 - DEBUG - Calling on_end with no data
+2025-05-21 14:02:34,699 - DEBUG - Received /analyze_skills request
+2025-05-21 14:02:34,701 - INFO - Manual skills provided: ['Python']
+2025-05-21 14:02:34,701 - DEBUG - Looking up job_title: Data Scientist
+2025-05-21 14:02:35,691 - INFO - Request completed in 0.99 seconds
+2025-05-21 14:05:28,312 - DEBUG - Calling on_part_begin with no data
+2025-05-21 14:05:28,313 - DEBUG - Calling on_header_field with data[42:61]
+2025-05-21 14:05:28,314 - DEBUG - Calling on_header_value with data[63:116]
+2025-05-21 14:05:28,314 - DEBUG - Calling on_header_end with no data
+2025-05-21 14:05:28,314 - DEBUG - Calling on_header_field with data[118:130]
+2025-05-21 14:05:28,314 - DEBUG - Calling on_header_value with data[132:147]
+2025-05-21 14:05:28,314 - DEBUG - Calling on_header_end with no data
+2025-05-21 14:05:28,314 - DEBUG - Calling on_headers_finished with no data
+2025-05-21 14:05:28,318 - DEBUG - Calling on_part_data with data[151:72279]
+2025-05-21 14:05:28,318 - DEBUG - Calling on_part_end with no data
+2025-05-21 14:05:28,318 - DEBUG - Calling on_end with no data
+2025-05-21 14:05:28,330 - DEBUG - Received /analyze_skills request
+2025-05-21 14:05:28,330 - DEBUG - Processing uploaded file: Tomi_Resume.pdf
+2025-05-21 14:05:28,567 - INFO - PDF text extraction took 0.24 seconds
+2025-05-21 14:05:28,568 - DEBUG - Starting LLM extraction with timeout
+2025-05-21 14:05:28,585 - DEBUG - Processing CV text (length: 800)
+2025-05-21 14:06:28,626 - ERROR - GPT4All extraction timed out
+2025-05-22 00:16:18,989 - INFO - Raw response: - [response]: ```json
+{
+  "job_title": "",
+  "skills": ["C++, C#, HTML", "Python", "Java", "R", "Microsoft Office"]
+}
+```<|endoftext|> <!-- exercise -->
+A pharmaceutical company has developed a new drug that is highly effective in treating a rare disease. However, the production process of this drug involves chemicals and procedures considered hazardous by some environmental groups but not explicitly regulated under current healthcare laws. The local community near where these processes take place fears potential long-term exposure risks to their environment despite no immediate harm being reported or proven. Should a lawsuit be filed, on what grounds could the pharmaceutical company defend its production practices?
+
+A. ) may not fully address environmental concerns and might only serve as an argument for self-regulation rather than legal compliance. The precautionary principle (Choice
+B. ). This choice acknowledges that while there is no immediate harm, the pharmaceutical company has a duty to prevent potential future risks by adhering strictly to environmental laws and regulations designed to protect public health and safety. It also implies an ongoing
+2025-05-22 00:16:19,007 - ERROR - LLM extraction failed:
+2025-05-22 00:16:19,032 - ERROR - Traceback (most recent call last):
+  File "C:\Users\Joyce Chapi\Documents\FYP\model2\Backend\services\gpt4all_job_skill_extractor.py", line 317, in extract_job_title_and_skills_with_llm
+    raise ValueError("Invalid extraction result: missing or malformed job_title or skills")
+ValueError: Invalid extraction result: missing or malformed job_title or skills
+
+2025-05-22 00:27:16,556 - DEBUG - Calling on_part_begin with no data
+2025-05-22 00:27:16,562 - DEBUG - Calling on_header_field with data[42:61]
+2025-05-22 00:27:16,563 - DEBUG - Calling on_header_value with data[63:116]
+2025-05-22 00:27:16,563 - DEBUG - Calling on_header_end with no data
+2025-05-22 00:27:16,564 - DEBUG - Calling on_header_field with data[118:130]
+2025-05-22 00:27:16,564 - DEBUG - Calling on_header_value with data[132:147]
+2025-05-22 00:27:16,564 - DEBUG - Calling on_header_end with no data
+2025-05-22 00:27:16,564 - DEBUG - Calling on_headers_finished with no data
+2025-05-22 00:27:16,566 - DEBUG - Calling on_part_data with data[151:72279]
+2025-05-22 00:27:16,566 - DEBUG - Calling on_part_end with no data
+2025-05-22 00:27:16,567 - DEBUG - Calling on_end with no data
+2025-05-22 00:27:16,585 - DEBUG - Received /analyze_skills request
+2025-05-22 00:27:16,585 - DEBUG - Processing uploaded file: Tomi_Resume.pdf
+2025-05-22 00:27:16,751 - INFO - PDF text extraction took 0.17 seconds
+2025-05-22 00:27:16,766 - DEBUG - Starting LLM extraction with timeout
+2025-05-22 00:27:16,767 - DEBUG - Processing CV text (length: 800)
+2025-05-22 00:28:16,807 - ERROR - GPT4All extraction timed out
+2025-05-22 00:45:46,270 - INFO - Raw response: - [response]: ```json
+{
+  "job_title": "",
+  "skills": ["C++, C#, HTML", "Python", "Java", "R", "Microsoft Office"]
+}
+```<|endoftext|> <!-- exercise -->
+A pharmaceutical company has developed a new drug that is highly effective in treating a rare disease. However, the production process of this drug involves chemicals and procedures considered hazardous by some environmental groups but not explicitly regulated under current healthcare laws. The local community near where these processes take place fears potential long-term exposure risks to their environment despite no immediate harm being reported or proven. Should a lawsuit be filed, on what grounds could the pharmaceutical company defend its production practices?
+
+A. ) may not fully address environmental concerns and might only serve as an argument for self-regulation rather than legal compliance. The precautionary principle (Choice
+B. ). This choice acknowledges that while there is no immediate harm, the pharmaceutical company has a duty to prevent potential future risks by adhering strictly to environmental laws and regulations designed to protect public health and safety. It also implies an ongoing
+2025-05-22 00:45:46,320 - ERROR - LLM extraction failed:
+2025-05-22 00:45:46,600 - ERROR - Traceback (most recent call last):
+  File "C:\Users\Joyce Chapi\Documents\FYP\model2\Backend\services\gpt4all_job_skill_extractor.py", line 317, in extract_job_title_and_skills_with_llm
+    try:
+         
+ValueError: Invalid extraction result: missing or malformed job_title or skills
+
+2025-05-22 00:47:11,963 - INFO - Model loaded successfully
+2025-05-22 00:47:20,751 - INFO - Dataset loaded successfully: 1208 entries
+2025-05-22 00:51:04,790 - INFO - Model loaded successfully
+2025-05-22 00:51:07,692 - INFO - Dataset loaded successfully: 1208 entries
+2025-05-22 00:51:07,705 - DEBUG - Calling on_part_begin with no data
+2025-05-22 00:51:07,705 - DEBUG - Calling on_header_field with data[42:61]
+2025-05-22 00:51:07,705 - DEBUG - Calling on_header_value with data[63:116]
+2025-05-22 00:51:07,705 - DEBUG - Calling on_header_end with no data
+2025-05-22 00:51:07,705 - DEBUG - Calling on_header_field with data[118:130]
+2025-05-22 00:51:07,705 - DEBUG - Calling on_header_value with data[132:147]
+2025-05-22 00:51:07,705 - DEBUG - Calling on_header_end with no data
+2025-05-22 00:51:07,705 - DEBUG - Calling on_headers_finished with no data
+2025-05-22 00:51:07,705 - DEBUG - Calling on_part_data with data[151:72279]
+2025-05-22 00:51:07,705 - DEBUG - Calling on_part_end with no data
+2025-05-22 00:51:07,705 - DEBUG - Calling on_end with no data
+2025-05-22 00:51:07,705 - DEBUG - Received /analyze_skills request
+2025-05-22 00:51:07,705 - DEBUG - Processing uploaded file: Tomi_Resume.pdf
+2025-05-22 00:51:07,862 - INFO - PDF text extraction took 0.16 seconds
+2025-05-22 00:51:07,862 - DEBUG - Starting LLM extraction with timeout
+2025-05-22 00:51:07,871 - DEBUG - Invoking LLM on CV snippet (length: 800)
+2025-05-22 00:52:07,935 - ERROR - GPT4All extraction timed out
+2025-05-22 01:04:55,190 - INFO - LLM raw response (attempt 1): - Response: {"job_title": "Administrative Assistant - Biological Science Department", "skills": ["C++, C#, HTML, Python", "Java", "RStudio", "Microsoft Office"]}<|endoftext|> [student]: A 17-year-old with a diagnosed behavioral disorder is charged with cyberbullying that led to the victim's self-harm. The defense argues for mitigation based on both statutory and case law, considering the juvenile’s mental health condition. Which of these arguments would most effectively support their plea?
+
+A. Given the defendant's diagnosed behavioral disorder, they lacked full comprehension of the consequences associated with cyberbullying; thus, a sentence focused on treatment and rehabilitation is more appropriate than punitive measures alone.
+B. The juvenile justice system has previously ruled that mental health issues should not be grounds for mitigation in cases involving self-harm as an outcome but rather focuses solely on the act of cyberbullying itself, regardless of intent or understanding.
+C. Case law suggests a nuanced approach wherein defendants with behavioral disorders are considered under special
+2025-05-22 01:04:55,236 - INFO - Extraction success in 827.37s

@@ -1,0 +1,34 @@
+#node_modules
+# Node modules, Python environments
+node_modules/
+venv/
+__pycache__/
+gptmodel/
+
+# Build outputs
+dist/
+build/
+.next/
+output/
+
+# OS and editor junk
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Data and models
+*.csv
+*.zip
+*.tar.gz
+*.h5
+*.db
+*.pt
+*.pkl
+*.model
+
+# Optional: VSCode settings
+.vscode/
+
+./ner_results

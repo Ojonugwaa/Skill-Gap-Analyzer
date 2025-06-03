@@ -44,6 +44,34 @@ from services.missing_skill_finder import identify_missing_skills
 from services.course_recommender import recommend_courses
 from routes.course_routes import router as course_router
 
+import gdown
+import zipfile
+import os
+
+# Replace these with your actual file IDs or public shareable URLs
+# Example Google Drive file links or IDs
+phi3_file_id = 'https://drive.google.com/file/d/1RSphUsdluwU8xNmCeiA_qlsnKxoaG_c2/view?usp=sharing'
+ner_model_zip_id = 'https://drive.google.com/file/d/1nsnXJpb2YGiNRMyK7vf_fMq_6cP8RRRI/view?usp=sharing'
+
+# Output paths
+output_dir = 'models'
+os.makedirs(output_dir, exist_ok=True)
+
+# Download Phi-3 model
+phi3_output = os.path.join(output_dir, 'Phi-3-mini-4k-instruct.Q4_0.gguf')
+gdown.download(f'https://drive.google.com/uc?id={phi3_file_id}', phi3_output, quiet=False)
+
+# Download ner_model.zip (if zipped)
+ner_model_output = os.path.join(output_dir, 'ner_model.zip')
+gdown.download(f'https://drive.google.com/uc?id={ner_model_zip_id}', ner_model_output, quiet=False)
+
+# Extract ner_model.zip
+with zipfile.ZipFile(ner_model_output, 'r') as zip_ref:
+    zip_ref.extractall(os.path.join(output_dir, 'ner_model'))
+
+print('Models downloaded and extracted successfully!')
+
+
 # Configure logging
 logging.basicConfig(
     filename='fastapi_log.txt',

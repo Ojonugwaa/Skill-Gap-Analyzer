@@ -54,7 +54,8 @@ phi3_file_id = '1RSphUsdluwU8xNmCeiA_qlsnKxoaG_c2'
 ner_model_zip_id = '1nsnXJpb2YGiNRMyK7vf_fMq_6cP8RRRI'
 
 # Output paths
-output_dir = 'models'
+output_dir = 'Backend/gptmodel'
+
 os.makedirs(output_dir, exist_ok=True)
 
 # Download Phi-3 model

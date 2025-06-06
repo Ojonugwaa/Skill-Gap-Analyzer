@@ -39,10 +39,10 @@ from typing import Optional
 from pdf2image import convert_from_bytes
 import pytesseract
 
-from services.gpt4all_job_skill_extractor import extract_job_title_and_skills_with_llama
-from services.missing_skill_finder import identify_missing_skills
-from services.course_recommender import recommend_courses
-from routes.course_routes import router as course_router
+from Backend.services.gpt4all_job_skill_extractor import extract_job_title_and_skills_with_llama
+from Backend.services.missing_skill_finder import identify_missing_skills
+from Backend.services.course_recommender import recommend_courses
+from Backend.routes.course_routes import router as course_router
 
 import gdown
 import zipfile
